@@ -134,6 +134,16 @@ With more development time, future additions could include:
 
 # Developer
 
-Developed by Kanika Chauhan
+Kanika Chauhan
+
+## Contacts:
+
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:kanika13c@gmail.com)
+
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/kanika-chauhandb13/)
+
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/Kanika1305)
+
 
 
