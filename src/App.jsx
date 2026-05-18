@@ -5,7 +5,7 @@ import Attractions from "./components/Attractions";
 import Events from "./components/Events";
 import Spotlight from "./components/spotlight";
 import CTA from "./components/CTA";
-import Loader from "./components/loader";
+import Loader from "./components/Loader.jsx";
 import FutureConcept from "./components/FutureComponent";
 
 import { useEffect, useState } from "react";
