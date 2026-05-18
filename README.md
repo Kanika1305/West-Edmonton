@@ -61,6 +61,49 @@ A futuristic experiential venue concept blending:
 The concept was added to demonstrate how AI can assist in envisioning future retail and entertainment expansion opportunities.
 
 ---
+## 📦 Setup Instructions
+
+### 1. Clone Repository
+```bash
+git clone https://github.com/Kanika1305/West-Edmonton.git
+```
+
+### 2. Install Dependencies
+```bash
+npm install
+```
+
+### 3. Run Development Server
+```bash
+npm run dev
+```
+
+Open:
+```
+http://localhost:5173
+```
+
+---
+
+### 4. Build for Production
+```bash
+npm run build
+```
+
+### 5. Preview Build
+```bash
+npm run preview
+```
+
+---
+
+##  Deployment
+
+This project is deployed using **Vercel** for fast global performance and CI/CD integration.
+
+ Live URL: https://west-edmonton.vercel.app/
+
+---
 
 # Tech Stack
 
