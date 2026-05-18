@@ -90,33 +90,7 @@ Typography:
 
 ---
 
-# Responsiveness
 
-The experience was optimized for:
-
-* Desktop
-* Laptop
-* iPad Pro / tablets
-* Mobile devices
-
-Special attention was given to:
-
-* adaptive typography
-* responsive grid behavior
-* cinematic image scaling
-* flexible navigation layouts
-
----
-
-# Performance Considerations
-
-* Optimized responsive layouts
-* Lightweight animations
-* Smooth scrolling experience
-* Reduced visual clutter
-* Lazy visual hierarchy approach
-
----
 
 # Future Improvements
 
